@@ -1,0 +1,20 @@
+Hey Aidan, it's Cole. Just leaving you this document to walk you through the steps of setting everything up on your end.
+
+1.) Go to Github.com and create a Repository.
+
+2.) Go to Settings and select Collaborators, then add me -- either by email or username, try these:
+								AsteroidArtsOfficial
+								asteroidartsofficial@gmail.com
+--One of them will work.
+
+3.) Open up Github Desktop.exe and clone the repository using the link to your github from the browser. It should be something like: 		https://github.com/AsteroidArtsOfficial/projectWWAAnew		or whatever you name the repo.
+
+4.) Clone this link / repo. Once this is done, you need to go to your github directory on your PC and extract the rar file contents into this folder.
+
+5.) Drag and drop your third person project content (With the shooting and physics you worked on the other day while we was on Skype.) into the content folder of the project I sent you.
+
+6.) Once you have done that, go back to Github Desktop.exe and you should see a whole bunch of files have been added. You need to commit these changes. Once you have done this PUSH it to the server, give it a bit of time, it's a big file.
+
+7.) Open up the project and set it up accordingly with your controller system.
+
+DONE! :)
